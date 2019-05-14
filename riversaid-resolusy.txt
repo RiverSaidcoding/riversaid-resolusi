@@ -1,7 +1,7 @@
 RiverSaid Resolusy(tekad)
 - Harus bisa bahasa pemograman PHP,Java,Java Scipt,CSS,HTML dan lainnya
-- Harus bisa menhasilkan Project
+- Harus bisa menghasilkan Project
 - harus ada penghasilan dari project tersebut
 - Terus belajar dan Berkembang untuk maju di era digital
 - Membuat suatu aplikasi yang bermanfaat untuk digunakan semua orang
-- Bisa dikenal orang lain dan saling bekerja sama 
+- Bisa kolaborasi sama expert
